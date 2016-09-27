@@ -4,7 +4,7 @@ title: O Sistema Digestivo
 permalink: o-sistema-digestivo
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O sistema digestivo se estende da boca até o ânus, e as doenças que ocorrem em cada componente do sistema digestivo variam conforme o local acometido.
 

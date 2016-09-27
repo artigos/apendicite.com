@@ -4,7 +4,7 @@ title: Definição da apendicite
 permalink: apendicite-definicao.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Apendicite aguda é a inflamação aguda do apêndice vermiforme.
 

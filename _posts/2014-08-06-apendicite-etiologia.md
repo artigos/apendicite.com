@@ -4,7 +4,7 @@ title: Etiologia da apendicite
 permalink: apendicite-etiologia.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A causa da apendicite é incerta, embora existam várias teorias. A maioria se relaciona à obstrução da luz, que impede o escape das secreções e inevitavelmente leva a um aumento na pressáo intraluminal dentro do apêndice. Isso pode levar à isquemia mucosa subsequente, e a estase fornece um ambiente ideal para o crescimento bacteriano excessivo. As causas potenciais da obstrução são fecálitos, frequentemente devido à constipação, à hiperplasia linfóide ou ao carcinoma cecal.
 

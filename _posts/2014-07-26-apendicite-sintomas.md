@@ -4,7 +4,7 @@ title: Sintomas da apendicite
 permalink: apendicite-sintomas.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O primeiro sintoma da apendicite é a dor, geralmente cólicas na região umbilical. A pessoa sente-se nauseada e pode vomitar; às vezes pode ser acometida de disúria, se o apêndice estiver localizado sobre o ureter, o que muitas vezes conduz a enganos. Os pacientes geralmente apresentam febre não muito alta, língua saburrosa e mau hálito; a dor então usualmente se localiza a meio caminho entre o umbigo e a crista ilíaca, do lado direito — ponto de McBurney —, o que indica que o apêndice encontra-se inflamado de forma aguda e pode perfurar. Haverá tensão dos músculos abdominais e dor quando levemente pressionados e logo descomprimidos: sensibilidade de rebote.
 

@@ -4,7 +4,7 @@ title: Prognóstico da apendicite
 permalink: apendicite-prognostico.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O prognóstico da apendicite não-tratada é desconhecido, embora a resolução espontânea tenha sido relatada em no mínimo 1/13 (8%) dos episódios.
 

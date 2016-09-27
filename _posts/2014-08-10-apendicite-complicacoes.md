@@ -4,7 +4,7 @@ title: Complicações da apendicite
 permalink: apendicite-complicacoes.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Complicações: perfuração, pileflebite e trombose da drenagem venosa porta; abscesso hepático; e bacteriemia.
 

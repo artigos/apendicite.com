@@ -4,7 +4,7 @@ title: Morfologia
 permalink: apendicite-morfologia.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Nos estágios iniciais, pode-se encontrar apenas um exsudato neutrofílico escasso em toda a mucosa, submucosa e túnica muscular própria. Os vasos subserosos estão congestos, e, muitas vezes, há um infiltrado neutrofílico perivascular modesto. A reação inflamatória transforma a serosa brilhante normal em uma membrana eritematosa, opaca e granular; essa transformação significa apendicite aguda incipiente para o cirurgião que está operando. Em um estágio subsequente, um exsudato neutrofílico proeminente gera uma reação fibrinopurulenta sobre a serosa. À medida que o processo inflamatório se agrava, há formação de abscesso dentro da parede, juntamente com ulcerações e focos de necrose supurativa na mucosa. Esse estado constitui a apendicite supurativa aguda. O comprometimento apendicular adicional produz grandes áreas de ulceração verde-hemorrâgica da mucosa e necrose gangrenosa negro-esverdeada através da parede, estendendo-se à serosa, criando a apendicite gangrenosa aguda, que é rapidamente seguida de ruptura e peritonite supurativa.
 

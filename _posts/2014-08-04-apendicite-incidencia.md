@@ -4,7 +4,7 @@ title: Incidência da apendicite
 permalink: apendicite-incidencia.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A incidência da apendicite aguda está caindo, embora a razão para isso seja obscura. O risco relatado para toda a vida de apendicite nos EUA é 8,7% em homens e 6,7 em mulheres, e há cerca de 60 mil casos relatados anualmente na Inglaterra e no Pais de Gales. A apendicite é a emergência cirúrgica mais comum requerendo operação.
 
